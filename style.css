@@ -1,0 +1,98 @@
+#banner{
+    background-image: url("img/project\ candy.jpeg");
+    height: 37.55em;
+}
+.wrapper{
+    padding-top: 12em;
+    color: white;
+}
+
+.content{
+    background-color: rgba(0, 0, 0, 0.452);
+    padding: 4em 0;
+    border-radius: 15px;
+}
+
+.content h1{
+    font-weight: bold;
+}
+
+.btn{
+    color: black;
+    background-color: rgb(217, 255, 0);
+}
+
+.btn:hover {
+    background-color: rgb(0, 255, 115);
+}
+
+.nav-item {
+    color: black;
+    background-color: rgb(217, 255, 0);
+    margin: 0 0.5em;
+    padding: 0 1em;
+}
+.nav-item:hover{
+    background-color: rgb(0, 255, 115);
+}
+
+.card{
+    margin-bottom: 3em;
+    padding: 2em;
+}
+
+#menu .row{
+    margin-top: 4em;
+}
+
+#menu h1{
+    margin-top: 0.2em;
+    color: rgb(217, 255, 0);
+}
+
+#paket h1{
+    margin-top: 0.2em;
+    color: rgb(217, 255, 0);
+}
+
+#paket.row{
+    margin-top: 4em;
+}
+
+#sejarah {
+    background-image: url("img/project\ candy.jpeg");
+    height: 37.55em;
+}
+
+#sejarah.row{
+    margin-top: 5em;
+}
+
+#sejarah h1{
+    margin-top: 0.2em;
+    color: rgb(217, 255, 0);
+}
+
+.container h1{
+    font-weight: bold;
+}
+
+#lokasi {
+    background-image: url("img/project\ candy.jpeg");
+    height: 37.55em;
+}
+
+#lokasi h1{
+    margin-top: 0.2em;
+    color: rgb(217, 255, 0);
+}
+
+#contact{
+    background-image: url("img/project\ candy.jpeg");
+    height: 37.55em;
+}
+
+#contact h1{
+    margin-top: 0.2em;
+    color:rgb(217, 255, 0);
+}
